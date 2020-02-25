@@ -132,13 +132,6 @@ Facilidad de uso y sin complicaciones en la validacion de tarjeta.
 Mi producto no te obliga a hacer la compra de manera inmediata.
 Te permite acceder a un catalogo de ofertas exclusivas con grandes dsctos,sin mucho tramite.
 
-LINK: Foto de tu primer prototipo en papel
-(https://github.com/Lemi-Torres/LIM012-card-validation/blob/master/imagenes%20pagina%20web/prot-baja%20fidelidad.jpg)
-
-
-LINK: Imagen del prototipo final
-(https://github.com/Lemi-Torres/LIM012-card-validation/blob/master/imagenes%20pagina%20web/inicio.jpg)
-(https://github.com/Lemi-Torres/LIM012-card-validation/blob/master/imagenes%20pagina%20web/validacion.jpg)
 
 ### Interfaz de usuario (UI)
 
@@ -156,11 +149,22 @@ Antes de iniciar a codear, debes entender el problema que quieres solucionar y
 cómo tu aplicación lo soluciona.
 
 * Trabaja tu primer prototipo con papel y lápiz (blanco y negro).
+(https://github.com/Lemi-Torres/LIM012-card-validation/blob/master/imagenes%20pagina%20web/prototipo-baja%20fidelidad.jpg)
+
 * Luego valida esta solución con una compañera (pedir feedback).
+Mis compañeras de squad me comentaron que debia reducir la cantidad de texto y mostrar mas imagen y que no era necesario mostrar muchas paginas,con una introducción y la pagina de validacion era suficiente.
+
+
 * Toma lo aprendido al momento de validar tu primer prototipo y desarrolla un
   nuevo prototipo usando alguna herramienta para diseño de prototipos
   ([Balsamiq](https://balsamiq.com/), [Figma](https://www.figma.com/),
   [Google Slides](https://www.google.com/intl/es/slides/about/), etc.)
+
+(https://github.com/Lemi-Torres/LIM012-card-validation/blob/master/imagenes%20pagina%20web/inicio-prototipo%20final.jpg)
+(https://github.com/Lemi-Torres/LIM012-card-validation/blob/master/imagenes%20pagina%20web/validacion-prototipo.final.jpg)
+
+
+
 Estos puntos los presentarás en el `README.md`.
 
 ### Scripts / Archivos
