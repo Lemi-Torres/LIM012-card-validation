@@ -7,41 +7,40 @@
   </head>
   <body>
 
-      <header>
-          <img src="logo.jpg"
-          alt="empresa">
-       </header>
-       
-    <section id ="primero">
-      <header>
-        <h1>TE DAMOS LA BIENVENIDA</h1>
-        <img src="ofertas.jpg"
-        alt="descuentos">
-        <p>Por nuestro aniversario tenemos una super oferta,chequeala aquí</p>
-     </header>
-     <button type="button" id="btn1">INGRESAR</button>
-    </section>
+    <main>
+           
+      <section id ="primero" class="contenedor1">
+        <img src="img/inicio/primero.jpg" class="fondo-inicio" alt="">
+        <div class="texto1">BIENVENIDA A NUESTRA TIENDA ONLINE </div>
+        <div class="texto2">¡TENEMOS OFERTAS EXCLUSIVAS SOLO CON TU TARJETA!</div>
+        <div class="texto3">DESCUBRE LA NUEVA COLECCIÓN </div>
+        <div class="texto4">SUMMER 2020</div> 
+        <div class="texto5">EDICIÓN N°02</div>
+        <div class="texto6">SOLO NECESITARAS VALIDAR TU N° DE TARJETA PARA COMPROBAR SI ERES UNA DE NUESTRAS CLIENTAS AFILIADAS EN LA WEB</div>
+        <div class="texto7">VERIFICA LO RECIEN LLEGADO Y OBTEN EL DSCTO ESPECIAL</div>           
+        <button type="button" id="btn1" class="btn-ingresar">Ingresar</button>
+      </section>
 
-    <section id ="segundo">
-      <header>
-        <h4>APROVECHA ESTA SUPER OFERTA :)</h4> 
-      </header>
+      <section class="contenedor2">      
+        <section id="segundo" class="tarjeta">                     
+          <div class = "logo-visa">
+            <img src="img/tarjeta/visa.png" alt="">
+          </div>
+          <img src="img/tarjeta/chip.png" class="chip" alt="">
+          <div class="maskify-number"> 
+            <p id="card-number-output"> </p> 
+            <p id ="result"> </p>          
+          </div>                             
+        </section>
           
-      <button type="button" id="btn2">COMPRAR</button>
-    </section>
+        <section id="tercero" class="valid-number">        
+          <label for="card-number">INGRESA TU NUMERO DE TARJETA Y DALE CLICK</label>        
+          <input type="number" id="card-number-input" placeholder="################"/>
+          <button type="button" id="btn2" class="btn-enviar">Validar</button>                                   
+        </section>         
+     </section> 
 
-    <section id ="tercero">
-      <h1>Realiza tu compra</h1>
-      <label for="card-number-input">Número de la tarjeta</label>
-      <input type="number" id="card-number-input" class="font-number">
-      <button type="button" id="btn3">Validar</button>
-      <p id ="result"> </p>  
-      <p id="maskifynumber"> </p>   
-    </section>
-
-    
-    
-
+   </main>
    <script src="index.js" type="module"></script>
    
   </body>

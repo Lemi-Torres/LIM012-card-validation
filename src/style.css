@@ -1,0 +1,239 @@
+/*---Estilo de la primera pagina---*/
+
+.contenedor1{
+    width: 100%; /*ancho de la pagina*/
+    max-width: 2500px; /*ancho maximo para q no sea demasiado grande*/ 
+    display: flex; /*para poder centrar el contenedor y los elementos hijos*/
+    flex-direction: column; /*los elementos que estan dentro se pondran en forma de columna*/
+    align-items:center; /*para poder centrar de forma horizontal porque trabajar con flex colum*/
+    position: relative;  
+    text-align: center;
+}
+
+.texto1{
+    position: absolute;
+    top: 22px;/*mover el texto hacia arriba*/
+    left: 405px;
+    color:#403f3f;
+    font-weight: normal;
+    font-size: 20pt;
+    font-family: Arial;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.texto2{
+    position: absolute;
+    top: 11%; /*mover el texto hacia ariba*/
+    left: 24.3%;
+    color:#403f3f;
+    font-weight: normal;
+    font-size: 18pt;
+    font-family: Arial;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.texto3{
+    width: 440px; /*ancho para separar entre lineas*/
+    overflow-wrap: break-word;/* para poder separar entre lineas*/
+    position: absolute;
+    top: 41%; /*mover el texto hacia ariba*/
+    right: 65.5%;
+    color:#403f3f;
+    font-weight: normal;
+    font-size: 30pt;
+    font-family: Arial;
+    text-transform: uppercase;
+    text-align: justify;
+}
+
+.texto4{
+    position: absolute;
+    top: 362px;/*mover el texto hacia arriba*/
+    right: 78%;
+    color:#ffffff;
+    font-weight: normal;
+    font-size: 29pt;
+    font-family: Arial;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.texto5{
+    position: absolute;
+    top: 429px;/*mover el texto hacia arriba*/
+    right: 85.6%;
+    color:#403f3f;
+    font-weight: normal;
+    font-size: 19pt;
+    font-family: Arial;
+    text-transform: uppercase;
+
+}
+
+.texto6{  
+    width: 250px; /*ancho para separar entre lineas*/
+    overflow-wrap: break-word;/* para poder separar entre lineas*/
+    position: absolute;
+    top: 150px; /*mover el texto hacia ariba*/
+    left: 80%;
+    color:#ffff;
+    font-weight: normal;
+    font-size: 14pt;
+    font-family: erasl;
+    text-align: center;
+    text-transform: uppercase;
+    text-align: center;
+    line-height: 22px; /*espacios entre lineas*/
+}
+
+.texto7{
+    width: 250px; /*ancho para separar entre lineas*/
+    overflow-wrap: break-word;/* para poder separar entre lineas*/
+    position: absolute;
+    top: 490px; /*mover el texto hacia ariba*/
+    left: 80%;
+    color:#ffff;
+    font-weight: normal;
+    font-size: 15pt;
+    font-family: erasl;
+    text-transform: uppercase;
+    text-align: center;
+    line-height: 22px; /*espacios entre lineas*/
+
+}
+
+.fondo-inicio {
+    width: 100%; /*ancho de la pagina*/
+    max-width: 2500px; /*ancho maximo para q no sea demasiado grande*/ 
+    display: flex; /*para poder centrar el contenedor y los elementos hijos*/
+    flex-direction: column; /*los elementos que estan dentro se pondran en forma de columna*/
+    align-items:center;
+    
+}
+
+
+.btn-ingresar{
+  padding: 13px; /*cuatro margenes simultaneos del boton*/
+  font-weight: 600; /*grosor del trazo en negrita de letra*/
+  font-size: 100%; /*tamaño de fuente*/
+  border-radius: 10px; /*esquinas redondeadas*/
+  background-color: #eb0a8d; /*color de fondo de boton*/
+  color: rgb(255,255,255); /*color de texto*/
+  cursor: pointer; /*tipo de cursor*/
+  width: 110px; /*ancho*/ 
+  outline: none; /*borde ninguno*/
+  margin-left: 1059px; /*margen exterior derecho*/
+  margin-top: -70px; /*margen exterior superior*/
+}
+
+
+/*---Estilo de la segunda pagina---*/
+
+.contenedor2{
+    width: 100%; /*ancho de la pagina*/
+    max-width: 2500px; /*ancho maximo para q no sea demasiado grande*/ 
+    display: flex; /*para poder centrar el contenedor y los elementos hijos*/
+    flex-direction: column; /*los elementos que estan dentro se pondran en forma de columna*/
+    align-items:center; /*para poder centrar de forma horizontal porque trabajar con flex colum*/
+    background: url(../img/tarjeta/chica.jpg); /*propiedad,imagen de fondo desde mi carpeta*/
+}
+
+
+/*---Estilo general de la tarjeta---*/
+
+.tarjeta{
+    width: 100%; /*ancho*/
+    max-width: 550px; /*ancho maximo*/  
+    cursor: pointer; /*tipo de cursor,puntero*/  
+    margin-top: 80px; /*margen exterior superior*/
+    margin-left: 600px; /*margen exterior izquierdo*/ 
+    padding:10px;/*30*//*margen interior superior*/
+    border-radius: 15px; /*esquinas redondeadas*/
+    min-height: 300px; /*alto maximo*/  
+    box-shadow: 0 10px 0 rgba(90,116,148,0.3); /*sombreado(hacia abajo,derecha,tamaño,color)*/
+    background: url(../img/tarjeta/rosa.jpg); /*propiedad,imagen de fondo desde mi carpeta*/
+    background-size: cover; /*tamaño de imagen de fondo,cubrir*/ 
+}
+
+.logo-visa{
+    text-align: right; /*alineacion de imagen a la  derecha*/   
+}
+
+.logo-visa img{
+    width: 100%; /*ancho*/   
+    margin-bottom: 60px; /*margen exterior inferior*/   
+    max-width: 100px; /*ancho maximo para q no abarque el tamaño de la tarjeta*/
+    margin-right: 20px; /*margen exterior derecho*/
+    margin-top: 10px; /*margen exterior superior*/
+}
+
+.chip{
+    width: 100%;  
+    max-width: 90px; /*ancho maximo para q no abarque el tamaño de la tarjeta*/
+    margin-left: 20px; /*margen exterior izquierdo*/
+}
+
+
+/*---Estilo del formulario para la validación---*/
+
+.valid-number{    
+    padding: 150px 30px 30px 30px; /*arriba,derecha,abajo,izquierda(distancia con la tarjeta)*/   
+    position: relative; /*posicion relativa a la tarjeta*/
+    top: -120px; /*posicion del borde superior del elemento*/
+    margin-left: 690px; /*margen exterior izquierdo*/ 
+}
+
+.valid-number label { /*INGRESA TU NUMERO DE TARJETA Y DALE CLICK*/
+    color: rgb(71, 71, 71); /*color de texto*/
+    font-family: 'Arial Narrow';
+    letter-spacing: 0.1mm; /*espacio entre caracteres*/
+    font-size: 100%; /*tamaño de fuente*/
+}
+    
+.valid-number input { /*NUMBER-PLACEHOLDER*/
+    padding: 12.5px; /*cuatro margenes interiores simultanemente*/
+    border-radius: 10px; /*esquinas redondeadas*/
+    color: rgb(73, 72, 72); /*color de los numeros*/
+    font-size: 100%; /*tamaño de fuente*/
+    width: 355px;/*ancho*/
+    outline: none;/*borde ninguno*/
+}
+
+.btn-enviar{
+  padding: 13px; /*cuatro margenes simultaneos del boton*/
+  font-weight: 600; /*grosor del trazo en negrita de letra*/
+  font-size: 100%; /*tamaño de fuente*/
+  border-radius: 10px; /*esquinas redondeadas*/
+  background-color: #eb0a8d; /*color de fondo de boton*/
+  color: rgb(255,255,255); /*color de texto*/
+  cursor: pointer; /*tipo de cursor*/
+  width: 110px; /*ancho*/ 
+  outline: none; /*borde ninguno*/
+}
+
+@font-face{
+    font-family: erasl; /*tipo de letra(fuente)*/
+    src:url(../fuentes/erasl.ttf); /*fuente personalizada desde mi carpeta*/
+}
+.maskify-number{ /*RESULTADO DE LA VALIDACION*/
+    font-family: erasl; /*tipo de letra(fuente)*/
+    /*font-weight: bold; */ 
+    line-height: 2px; /*espacios entre lineas*/
+    text-align: center; /*alineacion de imagen al centro*/
+    font-size: 40px; /*tamaño de fuente*/
+    color:#fff; /*color de texto del mensaje dentro de la tarjeta*/
+}
+
+
+
+
+
+
+
+
+
+
+
+
