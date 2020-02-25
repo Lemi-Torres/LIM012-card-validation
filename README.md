@@ -110,6 +110,13 @@ Usa solo caracteres numéricos (dígitos) en la tarjeta a validar [0-9].
 En el `README.md`, cuéntanos cómo pensaste en los usuarios y cuál fue tu proceso
 para definir el producto final a nivel de experiencia y de interfaz.
 
+Validador de Tarjeta de Credito
+
+Crear una web que solicite a un usuario ingresar su número de tarjeta de credito y poder confirmar si esta es válida o inválida utilizando el logaritmo de Luhn.
+
+(https://github.com/Lemi-Torres/LIM012-card-validation/blob/master/imagenes%20pagina%20web/inicio.jpg)
+(https://github.com/Lemi-Torres/LIM012-card-validation/blob/master/imagenes%20pagina%20web/validacion.jpg)
+
 * Quiénes son los principales usuarios de producto.
 Son mujeres entre 25 años a mas amantes de la moda que cuentan con una tarjeta de credito para realizar compras.
 
