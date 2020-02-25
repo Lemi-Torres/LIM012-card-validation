@@ -114,8 +114,9 @@ Validador de Tarjeta de Credito
 
 Crear una web que solicite a un usuario ingresar su número de tarjeta de credito y poder confirmar si esta es válida o inválida utilizando el logaritmo de Luhn.
 
-(https://github.com/Lemi-Torres/LIM012-card-validation/blob/master/imagenes%20pagina%20web/inicio.jpg)
-(https://github.com/Lemi-Torres/LIM012-card-validation/blob/master/imagenes%20pagina%20web/validacion.jpg)
+LINK: La imagen final de tu proyecto.
+(https://github.com/Lemi-Torres/LIM012-card-validation/blob/master/imagenes%20pagina%20web/INICIO-PROY.FINAL.jpg)
+(https://github.com/Lemi-Torres/LIM012-card-validation/blob/master/imagenes%20pagina%20web/VALIDACION-PROY.FINAL.jpg)
 
 * Quiénes son los principales usuarios de producto.
 Son mujeres entre 25 años a mas amantes de la moda que cuentan con una tarjeta de credito para realizar compras.
@@ -130,6 +131,14 @@ Facilidad de uso y sin complicaciones en la validacion de tarjeta.
 * Cómo crees que el producto que estás creando está resolviendo sus problemas.
 Mi producto no te obliga a hacer la compra de manera inmediata.
 Te permite acceder a un catalogo de ofertas exclusivas con grandes dsctos,sin mucho tramite.
+
+LINK: Foto de tu primer prototipo en papel
+(https://github.com/Lemi-Torres/LIM012-card-validation/blob/master/imagenes%20pagina%20web/prot-baja%20fidelidad.jpg)
+
+
+LINK: Imagen del prototipo final
+(https://github.com/Lemi-Torres/LIM012-card-validation/blob/master/imagenes%20pagina%20web/inicio.jpg)
+(https://github.com/Lemi-Torres/LIM012-card-validation/blob/master/imagenes%20pagina%20web/validacion.jpg)
 
 ### Interfaz de usuario (UI)
 
