@@ -119,7 +119,7 @@
     display: flex; /*para poder centrar el contenedor y los elementos hijos*/
     flex-direction: column; /*los elementos que estan dentro se pondran en forma de columna*/
     align-items:center; /*para poder centrar de forma horizontal porque trabajar con flex colum*/
-    background: url(../img/tarjeta/FINAL.jpg); /*propiedad,imagen de fondo desde mi carpeta*/
+    background: url('img/tarjeta/FINAL.jpg'); /*propiedad,imagen de fondo desde mi carpeta*/
 }
 
 
