@@ -135,7 +135,7 @@
     border-radius: 15px; /*esquinas redondeadas*/
     min-height: 300px; /*alto maximo*/  
     box-shadow: 0 10px 0 rgba(90,116,148,0.3); /*sombreado(hacia abajo,derecha,tamaño,color)*/
-    background: url(../img/tarjeta/rosa.jpg); /*propiedad,imagen de fondo desde mi carpeta*/
+    background: url('img/tarjeta/rosa.jpg'); /*propiedad,imagen de fondo desde mi carpeta*/
     background-size: cover; /*tamaño de imagen de fondo,cubrir*/ 
 }
 
@@ -197,7 +197,7 @@
 
 @font-face{
     font-family: erasl; /*tipo de letra(fuente)*/
-    src:url(../fuentes/erasl.ttf); /*fuente personalizada desde mi carpeta*/
+    src:url('fuentes/erasl.ttf'); /*fuente personalizada desde mi carpeta*/
 }
 .maskify-number{ /*RESULTADO DE LA VALIDACION*/
     font-family: erasl; /*tipo de letra(fuente)*/
