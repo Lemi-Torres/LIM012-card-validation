@@ -52,22 +52,3 @@ const validator = {
  
 };
 export default validator;
-
-
-/*var nombreObjetoCreado = {
-
-  propiedad1: valorPropiedad1,
-
-  propiedad2: valorPropiedad2,
-
-  propiedadN: valorPropiedadN,
-
-  …
-
-  método1: function () { … código … }
-
-  método2: function (par1, par2, …, parN) { … código … }
-
-  métodoN: function () { … código … }
-
-}*/

@@ -115,8 +115,8 @@ Validador de Tarjeta de Credito
 Crear una web que solicite a un usuario ingresar su número de tarjeta de credito y poder confirmar si esta es válida o inválida utilizando el logaritmo de Luhn.
 
 LINK: La imagen final de tu proyecto.
-(https://github.com/Lemi-Torres/LIM012-card-validation/blob/master/imagenes%20pagina%20web/INICIO-PROY.FINAL.jpg)
-(https://github.com/Lemi-Torres/LIM012-card-validation/blob/master/imagenes%20pagina%20web/VALIDACION-PROY.FINAL.jpg)
+(https://github.com/Lemi-Torres/LIM012-card-validation/blob/master/pantallazos-miweb/PROY-FINAL1.jpg)
+(https://github.com/Lemi-Torres/LIM012-card-validation/blob/master/pantallazos-miweb/PROY-FINAL2.jpg)
 
 * Quiénes son los principales usuarios de producto.
 Son mujeres entre 25 años a mas amantes de la moda que cuentan con una tarjeta de credito para realizar compras.
@@ -149,7 +149,7 @@ Antes de iniciar a codear, debes entender el problema que quieres solucionar y
 cómo tu aplicación lo soluciona.
 
 * Trabaja tu primer prototipo con papel y lápiz (blanco y negro).
-(https://github.com/Lemi-Torres/LIM012-card-validation/blob/master/imagenes%20pagina%20web/prototipo-baja%20fidelidad.jpg)
+(https://github.com/Lemi-Torres/LIM012-card-validation/blob/master/pantallazos-miweb/prototipo-baja.jpg)
 
 * Luego valida esta solución con una compañera (pedir feedback).
 Mis compañeras de squad me comentaron que debia reducir la cantidad de texto y mostrar mas imagen y que no era necesario mostrar muchas paginas,con una introducción y la pagina de validacion era suficiente.
@@ -160,8 +160,8 @@ Mis compañeras de squad me comentaron que debia reducir la cantidad de texto y 
   ([Balsamiq](https://balsamiq.com/), [Figma](https://www.figma.com/),
   [Google Slides](https://www.google.com/intl/es/slides/about/), etc.)
 
-(https://github.com/Lemi-Torres/LIM012-card-validation/blob/master/imagenes%20pagina%20web/inicio-prototipo%20final.jpg)
-(https://github.com/Lemi-Torres/LIM012-card-validation/blob/master/imagenes%20pagina%20web/validacion-prototipo.final.jpg)
+(https://github.com/Lemi-Torres/LIM012-card-validation/blob/master/pantallazos-miweb/PROT-FINAL1.png)
+(https://github.com/Lemi-Torres/LIM012-card-validation/blob/master/pantallazos-miweb/PROT-FINAL2.png)
 
 
 
