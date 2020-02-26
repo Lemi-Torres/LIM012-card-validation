@@ -6,102 +6,86 @@
     display: flex; /*para poder centrar el contenedor y los elementos hijos*/
     flex-direction: column; /*los elementos que estan dentro se pondran en forma de columna*/
     align-items:center; /*para poder centrar de forma horizontal porque trabajar con flex colum*/
-    position: relative;  
-    text-align: center;
+    position: relative;  /*posicion relativa del contenedor*/
+    text-align: center; /*alineacion de texto,centrado*/
 }
 
 .texto1{
-    position: absolute;
+    position: absolute; /*posicion,absoluta*/
     top: 22px;/*mover el texto hacia arriba*/
-    left: 405px;
-    color:#403f3f;
-    font-weight: normal;
-    font-size: 20pt;
-    font-family: Arial;
-    font-weight: bold;
-    text-transform: uppercase;
+    left: 310px; /*posicion del borde izquierdo del elemento*/
+    color:#403f3f; /*color de texto*/
+    font-size: 20pt; /*tamaño de fuente*/
+    font-family: Arial; /*tipo de letra(fuente)*/
+    font-weight: bold; /*grosor del trazo en negrita de letra*/
 }
 
 .texto2{
-    position: absolute;
+    position: absolute; /*posicion absoluta*/
     top: 11%; /*mover el texto hacia ariba*/
-    left: 24.3%;
-    color:#403f3f;
-    font-weight: normal;
-    font-size: 18pt;
-    font-family: Arial;
-    text-transform: uppercase;
-    text-align: center;
+    left: 45%; /*posicion del borde izquierdo del elemento*/
+    color:#403f3f; /*color de texto*/
+    font-size: 18pt; /*tamaño de fuente*/
+    font-family: Arial; /*tipo de letra(fuente)*/
+    text-align: center; /*alineacion de texto,centrado*/
 }
 
 .texto3{
     width: 440px; /*ancho para separar entre lineas*/
-    overflow-wrap: break-word;/* para poder separar entre lineas*/
-    position: absolute;
+    overflow-wrap: break-word; /* para poder separar entre lineas*/
+    position: absolute; /*posicion absoluta*/
     top: 41%; /*mover el texto hacia ariba*/
-    right: 65.5%;
-    color:#403f3f;
-    font-weight: normal;
-    font-size: 30pt;
-    font-family: Arial;
-    text-transform: uppercase;
-    text-align: justify;
+    right: 65.5%; /*posicion del borde derecho del elemento*/
+    color:#403f3f; /*color de texto*/
+    font-size: 30pt; /*tamaño de fuente*/
+    font-family: Arial; /*tipo de letra(fuente)*/
+    text-align: left;
 }
 
 .texto4{
     position: absolute;
     top: 362px;/*mover el texto hacia arriba*/
-    right: 78%;
-    color:#ffffff;
-    font-weight: normal;
-    font-size: 29pt;
-    font-family: Arial;
-    font-weight: bold;
-    text-transform: uppercase;
+    right: 78%; /*posicion del borde derecho del elemento*/
+    color:#ffffff; /*color de texto*/
+    font-size: 29pt; /*tamaño de fuente*/
+    font-family: Arial; /*tipo de letra(fuente)*/
+    font-weight: bold; /*grosor del trazo en negrita de letra*/
 }
 
 .texto5{
     position: absolute;
     top: 429px;/*mover el texto hacia arriba*/
-    right: 85.6%;
-    color:#403f3f;
-    font-weight: normal;
-    font-size: 19pt;
-    font-family: Arial;
-    text-transform: uppercase;
-
+    right: 85.6%; /*posicion del borde derecho del elemento*/
+    color:#403f3f; /*color de texto*/
+    font-size: 19pt; /*tamaño de fuente*/
+    font-family: Arial; /*tipo de letra(fuente)*/
 }
 
 .texto6{  
     width: 250px; /*ancho para separar entre lineas*/
     overflow-wrap: break-word;/* para poder separar entre lineas*/
-    position: absolute;
-    top: 150px; /*mover el texto hacia ariba*/
-    left: 80%;
-    color:#ffff;
-    font-weight: normal;
-    font-size: 14pt;
-    font-family: erasl;
-    text-align: center;
-    text-transform: uppercase;
-    text-align: center;
+    position: absolute; /*posicion absoluta*/
+    top: 135px; /*mover el texto hacia ariba*/
+    left: 80%; /*posicion del borde izquierdo del elemento*/
+    color:#ffff; /*color de texto*/
+    font-size: 13pt; /*tamaño de fuente*/
+    font-family: erasl; /*tipo de letra(fuente)*/  
+    text-align: center; /*alineacion de texto,justificado*/
     line-height: 22px; /*espacios entre lineas*/
 }
 
 .texto7{
     width: 250px; /*ancho para separar entre lineas*/
     overflow-wrap: break-word;/* para poder separar entre lineas*/
-    position: absolute;
+    position: absolute; /*posicion absoluta*/
     top: 490px; /*mover el texto hacia ariba*/
-    left: 80%;
-    color:#ffff;
-    font-weight: normal;
-    font-size: 15pt;
-    font-family: erasl;
-    text-transform: uppercase;
-    text-align: center;
+    left: 80%; /*posicion del borde izquierdo del elemento*/
+    color:#ffff; /*color de texto*/
+    font-weight: normal; /*grosor del trazo en negrita de letra*/
+    font-size: 15pt; /*tamaño de fuente*/
+    font-family: erasl; /*tipo de letra(fuente)*/
+    text-align: center; /*alineacion de texto,centrado*/
     line-height: 22px; /*espacios entre lineas*/
-
 }
 
 .fondo-inicio {
@@ -109,10 +93,8 @@
     max-width: 2500px; /*ancho maximo para q no sea demasiado grande*/ 
     display: flex; /*para poder centrar el contenedor y los elementos hijos*/
     flex-direction: column; /*los elementos que estan dentro se pondran en forma de columna*/
-    align-items:center;
-    
+    align-items:center;   
 }
-
 
 .btn-ingresar{
   padding: 13px; /*cuatro margenes simultaneos del boton*/
@@ -137,7 +119,7 @@
     display: flex; /*para poder centrar el contenedor y los elementos hijos*/
     flex-direction: column; /*los elementos que estan dentro se pondran en forma de columna*/
     align-items:center; /*para poder centrar de forma horizontal porque trabajar con flex colum*/
-    background: url(../img/tarjeta/chica.jpg); /*propiedad,imagen de fondo desde mi carpeta*/
+    background: url(../img/tarjeta/FINAL.jpg); /*propiedad,imagen de fondo desde mi carpeta*/
 }
 
 
@@ -170,7 +152,7 @@
 }
 
 .chip{
-    width: 100%;  
+    width: 100%; /*ancho*/
     max-width: 90px; /*ancho maximo para q no abarque el tamaño de la tarjeta*/
     margin-left: 20px; /*margen exterior izquierdo*/
 }
@@ -187,7 +169,7 @@
 
 .valid-number label { /*INGRESA TU NUMERO DE TARJETA Y DALE CLICK*/
     color: rgb(71, 71, 71); /*color de texto*/
-    font-family: 'Arial Narrow';
+    font-family: 'Arial Narrow'; /*tipo de letra(fuente)*/
     letter-spacing: 0.1mm; /*espacio entre caracteres*/
     font-size: 100%; /*tamaño de fuente*/
 }

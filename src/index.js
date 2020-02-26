@@ -1,4 +1,5 @@
 import validator from './validator.js';
+
 const cardNumberInput = document.getElementById('card-number-input');
 const cardNumberOutput = document.getElementById('card-number-output');
 const result = document.getElementById('result');

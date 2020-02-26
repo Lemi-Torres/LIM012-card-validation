@@ -1,4 +1,4 @@
-//const validator es un objeto
+//validator es un objeto
 const validator = { 
 
  //Declarar dentro del metodo isValid una variable llamada number la cuál va almacenar los números ingresados.
@@ -31,7 +31,6 @@ const validator = {
       }
     });
 
-    
     
     const totalSum = arraySum.reduce((a, b) => a + b);
     if(totalSum % 10 === 0) {
