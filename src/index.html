@@ -2,13 +2,11 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>Tarjeta de crédito válida</title>
+    <title>Validación de tarjeta de credito</title>
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
-
-    <main>
-           
+    <main>        
       <section id ="primero" class="contenedor1">
         <img src="img/tarjeta/INICIO.jpg" class="fondo-inicio" alt="">
         <div class="texto1">BIENVENIDA A NUESTRA TIENDA ONLINE </div>
@@ -18,30 +16,28 @@
         <div class="texto5">EDICIÓN N°02</div>
         <div class="texto6">Solo necesitarás validar tu N° de tarjeta de credito para comprobar si eres una de nuestras clientas afiliadas en la web.</div>
         <div class="texto7">VERIFICA LO RECIEN LLEGADO Y OBTEN EL DSCTO ESPECIAL</div>           
-        <button type="button" id="btn1" class="btn-ingresar">Ingresar</button>
+        <button type="button" id="btn1" class="btn-ingresar" >Ingresar</button>
       </section>
 
       <section class="contenedor2">      
-        <section id="segundo" class="tarjeta">                     
+        <section id="segundo"  class="tarjeta">                     
           <div class = "logo-visa">
             <img src="img/tarjeta/visa.png" alt="">
           </div>
           <img src="img/tarjeta/chip.png" class="chip" alt="">
           <div class="maskify-number"> 
-            <p id="card-number-output"> </p> 
-            <p id ="result"> </p>          
+            <p id="hideNumber"> </p> 
+            <p id ="result" class="final"> </p>          
           </div>                             
         </section>
           
         <section id="tercero" class="valid-number">        
-          <label for="card-number">INGRESA TU NUMERO DE TARJETA Y DALE CLICK</label>        
-          <input type="number" id="card-number-input" placeholder="################"/>
+          <label for="cardNumber">INGRESA TU NUMERO DE TARJETA Y DALE CLICK</label>        
+          <input type="number" id="cardNumber" placeholder="################"/>
           <button type="button" id="btn2" class="btn-enviar">Validar</button>                                   
         </section>         
      </section> 
-
    </main>
-   <script src="index.js" type="module"></script>
-   
+   <script src="index.js" type="module"></script>   
   </body>
 </html>
