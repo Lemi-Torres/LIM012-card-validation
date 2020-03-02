@@ -9,13 +9,17 @@ Mi pagina pertenece a una tienda de ropa online la cual permite a sus clientas a
 :) IMAGEN FINAL DEL PROYECTO:
 
 Pagina Inicio.
+<<<<<<< HEAD
 ![alt proyInicio](pantallazos-miweb/1PROY-INICIO.jpg)
+=======
+![alt protectoInicial](pantallazos-miweb/1PROY-INICIO.jpg)
+>>>>>>> a0d5c0a636e551459b35892e7946a01e2d533039
 
 Pagina Validación.
-(https://github.com/Lemi-Torres/LIM012-card-validation/blob/master/pantallazos-miweb/2PROY-VALID.jpg)
+![alt protectoValidacionl](pantallazos-miweb/2PROY-VALID.jpg)
 
 Pagina Validación-Funcionalidad.
-(https://github.com/Lemi-Torres/LIM012-card-validation/blob/master/pantallazos-miweb/VALIDACION.jpg)
+![alt pantallazos](pantallazos-miweb/VALIDACION.jpg)
 
 
 ## INVESTIGACIÓN UX:
@@ -38,7 +42,7 @@ Pagina Validación-Funcionalidad.
 
  4. FOTO DE MI PRIMER PROTOTIPO EN PAPEL
 
- (https://github.com/Lemi-Torres/LIM012-card-validation/blob/master/pantallazos-miweb/PROT-BAJA.jpg)
+ ![alt pantallazos](pantallazos-miweb/PROT-BAJA.jpg)
 
  5. RESUMEN DE FEEDBACK RECIBIDO:
 
@@ -47,10 +51,10 @@ Pagina Validación-Funcionalidad.
  6. IMAGEN DEL PROTOTIPO FINAL:
 
  Pagina Inicio.
- (https://github.com/Lemi-Torres/LIM012-card-validation/blob/master/pantallazos-miweb/1PROT-INICIO.jpg)
+ ![alt prototipoInicial](pantallazos-miweb/1PROT-INICIO.jpg)
 
  Pagina Validación.
- (https://github.com/Lemi-Torres/LIM012-card-validation/blob/master/pantallazos-miweb/2PROT-VALI.jpg)
+ ![alt prototipoValidacion](pantallazos-miweb/2PROT-VALID.jpg)
 
 ## 3. Objetivos de aprendizaje
 
