@@ -50,7 +50,7 @@ Pagina Validación-Funcionalidad.
  ![alt prototipoInicial](pantallazos-miweb/1PROT-INICIO.jpg)
 
  Pagina Validación.
- ![alt prototipoValidacion](pantallazos-miweb/2PROT-VALI.jpg)
+ ![alt prototipoValidacion](pantallazos-miweb/2PROT-VALID.jpg)
 
 ## 3. Objetivos de aprendizaje
 
