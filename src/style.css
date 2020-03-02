@@ -1,3 +1,13 @@
+.tarjeta{
+    display: none;
+}
+.valid-number{
+    display: none; 
+}
+.final{
+    display: none; 
+}
+
 /*---Estilo de la primera pagina---*/
 
 .contenedor1{
@@ -110,7 +120,6 @@
   margin-top: -70px; /*margen exterior superior*/
 }
 
-
 /*---Estilo de la segunda pagina---*/
 
 .contenedor2{
@@ -121,7 +130,6 @@
     align-items:center; /*para poder centrar de forma horizontal porque trabajar con flex colum*/
     background: url('img/tarjeta/FINAL.jpg'); /*propiedad,imagen de fondo desde mi carpeta*/
 }
-
 
 /*---Estilo general de la tarjeta---*/
 
@@ -156,7 +164,6 @@
     max-width: 90px; /*ancho maximo para q no abarque el tamaño de la tarjeta*/
     margin-left: 20px; /*margen exterior izquierdo*/
 }
-
 
 /*---Estilo del formulario para la validación---*/
 
@@ -195,6 +202,8 @@
   outline: none; /*borde ninguno*/
 }
 
+/*---Estilo del mensaje en la validación---*/
+
 @font-face{
     font-family: erasl; /*tipo de letra(fuente)*/
     src:url('fuentes/erasl.ttf'); /*fuente personalizada desde mi carpeta*/
@@ -207,15 +216,3 @@
     font-size: 40px; /*tamaño de fuente*/
     color:#fff; /*color de texto del mensaje dentro de la tarjeta*/
 }
-
-
-
-
-
-
-
-
-
-
-
-
