@@ -4,7 +4,7 @@
 
 :) RESUMEN DEL PROYECTO:
 
-Mi pagina pertenece a una tienda de ropa online la cual permite a sus clientas afiliadas en la web acceder a sus catalogos de ofertas teniendo solo que validar su número de tarjeta de credito,el cual es una condicion principal de la tienda ya que por medio de ello podran realizar sus compras online.
+Mi página pertenece a una tienda de ropa online la cual permite a sus clientas afiliadas en la web acceder a sus catalogos de ofertas teniendo solo que validar su número de tarjeta de credito,el cual es una condición principal de la tienda ya que por medio de ello podran realizar sus compras online.
 
 :) IMAGEN FINAL DEL PROYECTO:
 
