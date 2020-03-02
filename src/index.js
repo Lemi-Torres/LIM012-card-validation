@@ -14,7 +14,7 @@ btn1.addEventListener('click',() => {
 
 //mediante el evento click enviaremos un alert,msje de validacion e invalidacion segun el caso.
 const btn2=document.getElementById('btn2');
-btn2.addEventListener('click',() => { 
+btn2.addEventListener('click',() => { Ñ
     if (!creditCardNumber.value.length) {
         alert('ERROR! No ingresó su número de tarjeta'); 
     }else{

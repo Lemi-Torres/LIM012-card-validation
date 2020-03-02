@@ -4,19 +4,15 @@
 
 :) RESUMEN DEL PROYECTO:
 
-Mi pagina pertenece a una tienda de ropa online la cual permite a sus clientas afiliadas en la web acceder a sus catalogos de ofertas teniendo solo que validar su número de tarjeta de credito,el cual es una condicion principal de la tienda ya que por medio de ello podran realizar sus compras online.
+Mi página pertenece a una tienda de ropa online la cual permite a sus clientas afiliadas en la web acceder a sus catalogos de ofertas teniendo solo que validar su número de tarjeta de credito, el cual es una condición principal de la tienda ya que por medio de ello podran realizar sus compras online.
 
 :) IMAGEN FINAL DEL PROYECTO:
 
 Pagina Inicio.
-<<<<<<< HEAD
-![alt proyInicio](pantallazos-miweb/1PROY-INICIO.jpg)
-=======
-![alt protectoInicial](pantallazos-miweb/1PROY-INICIO.jpg)
->>>>>>> a0d5c0a636e551459b35892e7946a01e2d533039
+![alt proyectoInicial](pantallazos-miweb/1PROY-INICIO.jpg)
 
 Pagina Validación.
-![alt protectoValidacionl](pantallazos-miweb/2PROY-VALID.jpg)
+![alt proyectoValidacion](pantallazos-miweb/2PROY-VALID.jpg)
 
 Pagina Validación-Funcionalidad.
 ![alt pantallazos](pantallazos-miweb/VALIDACION.jpg)
@@ -42,7 +38,7 @@ Pagina Validación-Funcionalidad.
 
  4. FOTO DE MI PRIMER PROTOTIPO EN PAPEL
 
- ![alt pantallazos](pantallazos-miweb/PROT-BAJA.jpg)
+ ![alt prototipoBaja](pantallazos-miweb/PROT-BAJA.jpg)
 
  5. RESUMEN DE FEEDBACK RECIBIDO:
 
