@@ -9,7 +9,7 @@ Mi pagina pertenece a una tienda de ropa online la cual permite a sus clientas a
 :) IMAGEN FINAL DEL PROYECTO:
 
 Pagina Inicio.
-(https://github.com/Lemi-Torres/LIM012-card-validation/blob/master/pantallazos-miweb/1PROY-INICIO.jpg)
+![alt protectoInicial](pantallazos-miweb/1PROY-INICIO.jpg)
 
 Pagina Validación.
 (https://github.com/Lemi-Torres/LIM012-card-validation/blob/master/pantallazos-miweb/2PROY-VALID.jpg)
