@@ -22,5 +22,5 @@ btn2.addEventListener('click',() => {
      hideNumber.innerHTML=`${validator.maskify(creditCardNumber.value)}`
     
      document.getElementById('result').style.display="block";
-    } 
+    }
 });

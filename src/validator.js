@@ -6,7 +6,7 @@ const validator = {
     let arraySum = 0;
     //2-Aplicar la operacion a los numeros de las posiciones pares.
     for (let i = 0; i < reverseArray.length; i++){
-      if((i+1) % 2 !== 0) {
+      if(i % 2 !== 0) {
         reverseArray[i] = reverseArray[i] * 2;
       }
       //3-Si el doble de ese numero es mayor o igual a 10 restamos -9 para que le de la suma de los dos digitos
